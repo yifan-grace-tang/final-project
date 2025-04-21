@@ -1,2 +1,3 @@
-# final-project
-This is the public repository for Group 6 Final Project CX4803
+### Project Report
+
+> This is the public repository for __Group 6__ Project __CX4803__
