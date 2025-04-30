@@ -16,7 +16,7 @@ Predicting protein functions—here in the form of **EC numbers**—is critical 
 
 ---
 
-## 🚀 Features  
+## Features  
 - **ProteinDataset**:  
   - Fetches/frees caches mmCIF files  
   - Builds residue‐level graphs (8 Å cutoff)  
