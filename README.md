@@ -4,7 +4,8 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  [![PyTorch](https://img.shields.io/badge/pytorch-1.12%2B-red)](https://pytorch.org/)  [![Torch-Geometric](https://img.shields.io/badge/torch--geometric-2.0%2B-orange)](https://pytorch-geometric.readthedocs.io)
 
 ---
-
+## Final Notebook submission:
+ - The final notebook is in this directory, and it is titled 'Group_6_protein_function_prediction.ipynb'. We have also included most of the data we used under 'All data files' directory.
 
 ##  Overview  
 Predicting protein functions—here in the form of **EC numbers**—is critical for understanding metabolic pathways and drug design. This project combines:
